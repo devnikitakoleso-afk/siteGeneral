@@ -11,16 +11,3 @@
 .primer {
     font-size: 10em;
 }
-
-table {
-    color: blue;
-    width: 70%;
-}
-
-td {
-    border: rgb(46, 2, 244) 30px;
-}
-
-tr {
-    height: 30px;
-}
