@@ -1,0 +1,22 @@
+.primer {
+    font-size: 10em;
+}
+
+.otvet {
+    font-size: 4em;
+    color: cyan;
+    text-decoration: none;
+}
+
+table {
+    color: blue;
+    width: 70%;
+}
+
+td {
+    border: rgb(46, 2, 244)44) 30px;
+}
+
+tr {
+    height: 30px;
+}
